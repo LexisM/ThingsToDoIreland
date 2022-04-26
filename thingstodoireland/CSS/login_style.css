@@ -1,0 +1,11 @@
+body {
+
+background: rgb(45,52,54);
+background: linear-gradient(180deg, rgba(45,52,54,1) 11%, rgba(99,110,114,1) 100%);
+}
+
+.btn-login {
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+}

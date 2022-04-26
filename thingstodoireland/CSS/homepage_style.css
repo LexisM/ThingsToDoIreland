@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700&display=swap');
+/* Style the video: 100% width and height to cover the entire window */
+#homepage_video {
+ object-fit: cover;
+  right: 0;
+  bottom: 0;
+  width: 100vw;
+  height: calc(100vh - 10rem);
+}
+
+/* Add some content at the bottom of the video/page */
+header{
+  position: relative;
+  overflow: hidden;
+}
+.content {
+  position: absolute;
+  top: 80%;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  height: 100%;
+  transition: top 150ms;
+  transition-timing-function: linear;
+}
+.content:hover{
+  top: 20%;
+}
+
+#logo{
+  filter: drop-shadow(1px 1px  1px #f1f1f1 );
+}
+
+.header-text{
+    font-family: 'Inter' sans-serif;
+    font-size: 3em;
+    font-weight: 300;
+ }
+
+span#ie{
+    font-family: 'Cormorant Unicase', serif;
+    font-weight: 600;
+}
+
+.text-style-inter{
+  font-family: 'Inter' sans-serif;
+  font-weight: 400;
+}
+
+.text-style-cormorant{
+font-family: 'Cormorant Unicase', serif;
+
+}
+.card-title{
+  font-weight: 700;
+}
+
+
+
+/* Style the button used to pause/play the video */
+
