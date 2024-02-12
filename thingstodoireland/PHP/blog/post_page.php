@@ -56,7 +56,7 @@
 
 
         <div class="align-items-center me-4 text-end">
-        <button type="button" class="btn btn-outline-light me-2">Login</button>
+        <a type="button" class="btn btn-outline-light me-2" href="../login/login.php">Login</a>
         <button type="button" class="btn btn-warning">Sign-up</button>
         </div>
     </div>
