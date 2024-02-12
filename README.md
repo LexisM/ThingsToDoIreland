@@ -49,5 +49,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For any inquiries or feedback, feel free to contact the author:
-- [Your Name](mailto:your-email@example.com)
+- [Lexis B.](mailto:lexis_maxwell@hotmail.com)
 
