@@ -15,7 +15,7 @@ Welcome to the Ireland Tourist Attractions Website! This website showcases vario
 - **Backend**: PHP
 - **Database**: MySQL
 - **Frontend**: HTML5, CSS3
-- **Additional Tools**: (Mention any additional tools or libraries used, e.g., Bootstrap for styling)
+- **Additional Tools**: BootStrap
 
 ## Getting Started
 
