@@ -38,7 +38,7 @@ The repository is organized as follows:
 - `users`: Contains user-related files and functionality.
 - `newsletter`: Contains files related to newsletter subscriptions.
 
-##Screenshots of website.
+## Screenshots of website.
 ![Home Page](/website_screenshots/home_page.png)
 ![Attractions page](/website_screenshots/attractions.png)
 ![Blog Page](/website_screenshots/blog.png)
