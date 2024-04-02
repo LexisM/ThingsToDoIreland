@@ -38,6 +38,12 @@ The repository is organized as follows:
 - `users`: Contains user-related files and functionality.
 - `newsletter`: Contains files related to newsletter subscriptions.
 
+##Screenshots of website.
+![Home Page](/website_screenshots/home_page.png)
+![Attractions page](/website_screenshots/attractions.png)
+![Blog Page](/website_screenshots/blog.png)
+![Blog Editor page](/website_screenshots/blog_editor.png)
+
 ## Contributing
 
 Contributions to the Ireland Tourist Attractions Website are welcome! If you find any bugs, have suggestions for improvements, or would like to add new features, please open an issue or submit a pull request.
